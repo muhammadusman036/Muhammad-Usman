@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="url">Usman Bin Abdul Hafeez</a></h1>
+<h1 align="center">Hi there👋, I'm <a href="https://usmanch036.wixsite.com/usmanbinabdulhafeez">Usman Bin Abdul Hafeez</a></h1>
 
 <h3 align="center">A software developer from Islamabad, Pakistan</h3>
 
@@ -27,7 +27,7 @@
 
 <br />
 
-[website]: https://codeSTACKr.com
+[website]: https://usmanch036.wixsite.com/usmanbinabdulhafeez
 [twitter]: https://twitter.com/itx_rio
 [facebook]: https://www.facebook.com/usman.hafeez.906
 [instagram]: https://instagram.com/itx_rio
