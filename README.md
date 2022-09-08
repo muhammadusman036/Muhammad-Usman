@@ -12,7 +12,7 @@
 -   👯 I’m looking to collaborate with other content creators
 -   :heart: Big fan of **Myself**
 -   ⚡ Fun fact: **Tea and Coffee** are my weakness
--   🥅 2021 Goals: Learning about new **Technologies**
+-   🥅 2022 Goals: Learning about new **Technologies**
 
 
 ### Connect with me:
