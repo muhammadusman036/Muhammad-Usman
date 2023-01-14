@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋, I'm <a href="https://usmanch036.wixsite.com/usmanbinabdulhafeez">Usman Bin Abdul Hafeez</a></h1>
+<h1 align="center">Hi there👋, I'm <a href="https://usmanch036.wixsite.com/muhammadusman">Muhammad Usman</a></h1>
 
-<h3 align="center">A software developer from Islamabad, Pakistan</h3>
+<h3 align="center">A software developer from Bradford, UK</h3>
 
 <br />
 
@@ -12,7 +12,7 @@
 -   👯 I’m looking to collaborate with other content creators
 -   :heart: Big fan of **Myself**
 -   ⚡ Fun fact: **Tea and Coffee** are my weakness
--   🥅 2022 Goals: Learning about new **Technologies**
+-   🥅 2023 Goals: Learning about new **Technologies**
 
 
 ### Connect with me:
@@ -27,11 +27,11 @@
 
 <br />
 
-[website]: https://usmanch036.wixsite.com/usmanbinabdulhafeez
+[website]: https://usmanch036.wixsite.com/muhammadusman
 [twitter]: https://twitter.com/itx_rio
 [facebook]: https://www.facebook.com/usman.hafeez.906
 [instagram]: https://instagram.com/itx_rio
-[linkedin]: https://www.linkedin.com/in/usman-bin-abdul-hafeez-9ba639140
+[linkedin]: https://www.linkedin.com/in/muhammad-usman-9ba639140
 [skype]: https://join.skype.com/invite/av5CDstVpocx
-[stackoverflow]: https://stackoverflow.com/users/17023944/usman-bin-abdul-hafeez
+[stackoverflow]: https://stackoverflow.com/users/17023944/muhammad-usman
 
