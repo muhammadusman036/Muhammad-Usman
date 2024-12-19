@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm <a href="https://usmanch036.wixsite.com/muhammadusman">Muhammad Usman</a></h1>
 
-<h3 align="center">A software developer from Bradford, UK</h3>
+<h3 align="center">A software developer from United Kingdom</h3>
 
 <br />
 
