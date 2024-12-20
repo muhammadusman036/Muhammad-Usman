@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm <a href="https://usmanch036.wixsite.com/muhammadusman">Muhammad Usman</a></h1>
 
-<h3 align="center">A software developer from Bradford, UK</h3>
+<h3 align="center">A Mobile App Developer</h3>
 
 <br />
 
@@ -18,11 +18,7 @@
 ### Connect with me:
 
 [<img align="left" alt="its_rio | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="its_rio | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="its_rio | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="its_rio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="its_rio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="its_rio | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" />][skype]
 [<img align="left" alt="its_rio | StackOverFlow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
